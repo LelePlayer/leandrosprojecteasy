@@ -5,6 +5,10 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+
+/**
+ * Classe responsável espelho da tabela do banco
+ */
 @Entity
 public class Filme {
 
